@@ -2,3 +2,10 @@ Welcome to the Budget Buddy App, a practical budget management tool built using 
 
 About the App
 Budget Buddy is designed to help users manage their finances efficiently by leveraging the robustness of SQLite for data management. With its user-friendly interface and powerful backend, Budget Buddy simplifies and enhances the budgeting process.
+
+Technologies Used
+
+Language: TypeScript
+Framework: Expo 50
+Database: SQLite
+Project Type: Mobile
